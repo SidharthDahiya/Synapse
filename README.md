@@ -239,7 +239,7 @@ Ensure you have the following tools installed:
 ---
 
 <p align="center">
-  <strong>Built with ❤️ using cutting-edge AI and real-time technologies</strong>
+  <strong>Built with ❤️ using AI and real-time technologies</strong>
 </p>
 
 <p align="center">
