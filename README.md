@@ -33,6 +33,8 @@ Think of it as having a personal assistant that has read all your team's documen
 
 Perfect for students studying from PDFs, teams collaborating on documents, researchers working with papers, or anyone who wants an AI assistant that knows their specific content.
 
+## 🎬 Platform Demo Video: [YouTube Demo](https://www.youtube.com/watch?v=5IZPAfCl4jM) ↗
+
 ## ✨ Key Features
 
 ### 🤖 AI-Powered Conversations
