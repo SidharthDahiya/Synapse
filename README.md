@@ -93,7 +93,6 @@ Perfect for students studying from PDFs, teams collaborating on documents, resea
 | **Backend** | Node.js, Express.js, Socket.IO, Multer, PDF-Parse, Mammoth |
 | **Database** | MongoDB, Redis (Caching & Pub/Sub) |
 | **AI/ML** | Google Gemini API, RAG Implementation, Web Search API |
-| **Deployment** | Appwrite Functions, Appwrite Database, Appwrite Sites |
 | **DevOps** | Docker, Docker Compose, PM2, Nginx |
 
 
