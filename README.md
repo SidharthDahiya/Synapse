@@ -139,7 +139,6 @@ Ensure you have the following tools installed:
 - Node.js (v18 or higher)
 - MongoDB (v6.0+)
 - Redis (v7+)
-- Git
 - Google Gemini API Key
 
 ### 🔧 Local Development Setup
